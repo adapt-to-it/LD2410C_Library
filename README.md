@@ -166,3 +166,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 markdown
 Copia codice
 
+---
+
+## Quick file sharing
+
+Learn how to quickly share files locally and remotely: [droplnk.app](https://droplnk.app) · [droplnk.app/s/](https://droplnk.app/s/)
